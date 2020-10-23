@@ -1,0 +1,1 @@
+{"id":"org.tvprimeiptv","version":"1.0.1","name":"TV Prime IPTV","description":"Latino IPTV","resources":["stream","meta","catalog"],"types":["tv","channel"],"idPrefixes":["TV-Prime"],"icon":"https://raw.githubusercontent.com/mik25/tvcool/main/logo.png","catalogs":[{"id":"TV-Primecat","name":"TV Prime IPTV","type":"tv"}]}
